@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FinancialPlanner.App/FinancialPlanner.App.csproj" />
+  <Project Path="FinancialPlanner.Core/FinancialPlanner.Core.csproj" Id="7172160f-bedb-45e4-a195-0774c4483b54" />
+</Solution>
